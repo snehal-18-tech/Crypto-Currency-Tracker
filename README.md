@@ -6,7 +6,8 @@ A responsive React + Redux Toolkit application that tracks real-time cryptocurre
 ## 🚀 Demo
 
 Watch the working demo here:  
-🔗 [Click to Watch Demo](https://drive.google.com/file/d/1utA95nFlGkVLK9OdaSSR_kL6k_x9ZVM0/view?usp=sharing)
+[![Crypto Tracker Demo](https://via.placeholder.com/800x400.png?text=Click+to+Watch+Demo)](https://drive.google.com/file/d/1utA95nFlGkVLK9OdaSSR_kL6k_x9ZVM0/view?usp=sharing)
+
 
 # Website images 
 <p align="center">
