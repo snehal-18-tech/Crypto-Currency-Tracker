@@ -2,6 +2,9 @@
 
 A responsive React + Redux Toolkit application that tracks real-time cryptocurrency prices, simulating WebSocket updates and managing all state via Redux.
 
+## 🚀 Live Demo
+
+[Click here to view the deployed app](https://crypto-currency-tracker-drab.vercel.app/)
 
 ## 🚀 Demo
 
